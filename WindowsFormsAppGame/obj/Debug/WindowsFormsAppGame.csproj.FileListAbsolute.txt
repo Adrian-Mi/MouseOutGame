@@ -1,0 +1,9 @@
+F:\myProjects\WindowsFormsAppGame\WindowsFormsAppGame\bin\Debug\WindowsFormsAppGame.exe.config
+F:\myProjects\WindowsFormsAppGame\WindowsFormsAppGame\bin\Debug\WindowsFormsAppGame.exe
+F:\myProjects\WindowsFormsAppGame\WindowsFormsAppGame\bin\Debug\WindowsFormsAppGame.pdb
+F:\myProjects\WindowsFormsAppGame\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.csprojResolveAssemblyReference.cache
+F:\myProjects\WindowsFormsAppGame\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.Form1.resources
+F:\myProjects\WindowsFormsAppGame\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.Properties.Resources.resources
+F:\myProjects\WindowsFormsAppGame\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.csproj.GenerateResource.Cache
+F:\myProjects\WindowsFormsAppGame\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.exe
+F:\myProjects\WindowsFormsAppGame\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.pdb
